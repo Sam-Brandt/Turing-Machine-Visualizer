@@ -1,0 +1,1 @@
+Running this program should be as simple as installing python and running main.py in the same folder as a download of graphics.py
